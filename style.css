@@ -9,3 +9,7 @@ ul {
 li {
     list-style: none;
 }
+
+.main-upper {
+    display: flex;
+}
